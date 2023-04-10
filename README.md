@@ -5,4 +5,5 @@ Sejam muito bem-vindos a mais um repositório. Como dito no nome do repositório
 > - Nome do item
 > - Descrição do item
 > - Botão para propor a troca
+
 No repositório, temos o arquivo "src", que leva para a pasta "components", lá foi desenvolvido o template dos cards e a estilização deles. O arquivo App é onde está a estrutura do app em si, que vai rodar os cards seguindo os itens na constante que vem um pouco antes da função App().
